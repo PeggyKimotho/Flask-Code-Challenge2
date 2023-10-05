@@ -45,9 +45,9 @@ six==1.16.0
 SQLAlchemy==2.0.21
 SQLAlchemy-serializer==1.4.1
 stack-data==0.6.3
-traitlets==5.11.1
-typing_extensions==4.8.0
-virtualenv==20.24.5
-wcwidth==0.2.8
-Werkzeug==2.3.7
-zipp==3.17.0
+traitlets
+typing_extensions
+virtualenv
+wcwidth
+Werkzeug
+zipp
