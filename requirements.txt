@@ -25,7 +25,7 @@ ipython
 itsdangerous
 jedi
 Jinja2
-libxml2-python
+libxml2-python==
 Mako
 MarkupSafe
 marshmallow
